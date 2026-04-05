@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<ExecutionGuid>2660C77442E2131AFE666FAD131EF45D</ExecutionGuid>
+		<CrashGUID>UECC-Windows-BBA33B784D1AFC977655DDA1FB1C2D95_0000</CrashGUID>
+		<IsEnsure>false</IsEnsure>
+		<IsStall>false</IsStall>
+		<IsAssert>false</IsAssert>
+		<CrashType>Crash</CrashType>
+		<ErrorMessage>Unhandled Exception: EXCEPTION_ACCESS_VIOLATION writing address 0x0000000000000024</ErrorMessage>
+		<CrashReporterMessage />
+		<CrashReporterMessage>Attended</CrashReporterMessage>
+		<ProcessId>3060</ProcessId>
+		<SecondsSinceStart>0</SecondsSinceStart>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsWithDebugInfo>true</IsWithDebugInfo>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<GameName>UE-UnrealProject</GameName>
+		<ExecutableName>UnrealEditor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>WindowsEditor</PlatformName>
+		<PlatformFullName>Win64 [Windows 11 (24H2) [10.0.26100.8037]  64b]</PlatformFullName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Editor</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>5.6.1-44394996+++UE5+Release-5.6</EngineVersion>
+		<EngineCompatibleVersion>5.6.1-44394996+++UE5+Release-5.6</EngineCompatibleVersion>
+		<CommandLine>CommandLineRemoved</CommandLine>
+		<LanguageLCID>9</LanguageLCID>
+		<AppDefaultLocale>en-US</AppDefaultLocale>
+		<BuildVersion>++UE5+Release-5.6-CL-44394996</BuildVersion>
+		<Symbols>**UE5*Release-5.6-CL-44394996-Win64-Development</Symbols>
+		<IsUERelease>true</IsUERelease>
+		<IsRequestingExit>false</IsRequestingExit>
+		<UserName />
+		<BaseDir>C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>C:/Program Files/Epic Games/UE_5.6/</RootDir>
+		<MachineId>100348F64F445D966AEC6FA980EBEBD3</MachineId>
+		<LoginId>100348f64f445d966aec6fa980ebebd3</LoginId>
+		<EpicAccountId />
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint />
+		<CrashDumpMode>0</CrashDumpMode>
+		<GameStateName />
+		<Misc.NumberOfCores>14</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>20</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>13th Gen Intel(R) Core(TM) i5-13600K</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>NVIDIA GeForce RTX 4090</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 11 (24H2) [10.0.26100.8037]</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<Misc.AnticheatProvider />
+		<MemoryStats.TotalPhysical>68393086976</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>78593634304</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>64</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>0</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>0</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>0</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>0</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>0</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>0</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<NumMinidumpFramesToIgnore>0</NumMinidumpFramesToIgnore>
+		<CallStack />
+		<PCallStack>
+
+NvMemMapStoragex 0x00007ffed0920000 + 2a601 
+</PCallStack>
+		<PCallStackHash>DA39A3EE5E6B4B0D3255BFEF95601890AFD80709</PCallStackHash>
+		<Threads>
+			<Thread>
+				<CallStack>bcryptprimitives 0x00007ffed8580000 + 29c2b 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>2364</ThreadID>
+				<ThreadName>GameThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 165744 
+ntdll 0x00007ffedace0000 + 75e8e 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>16224</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 165744 
+ntdll 0x00007ffedace0000 + 75e8e 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>21952</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 165744 
+ntdll 0x00007ffedace0000 + 75e8e 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>17932</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 1621b4 
+umppc20610 0x00000288c23f0000 + 52ce 
+ScriptControl64_20610 0x00000288c2440000 + 3dbc0000 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>8692</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 162114 
+ntdll 0x00007ffedace0000 + d10c4 
+Unknown 0x0000000000000000 + 3 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>28404</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 13d1c40 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>11348</ThreadID>
+				<ThreadName>BackgroundThreadPool #0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 13d5c40 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>33120</ThreadID>
+				<ThreadName>BackgroundThreadPool #1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 13d9c40 
+Unknown 0x0000000000000000 + 1 
+UnrealEditor-Core 0x00007ffe4c200000 + 2cf60c 
+ScriptControl64_20610 0x00000288c2440000 + 484d0738 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>31428</ThreadID>
+				<ThreadName>Foreground Worker #0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 13ddc40 
+ScriptControl64_20610 0x00000288c2440000 + 361bb980 
+UnrealEditor-RenderCore 0x00007ffe51c40000 + 32db1 
+ScriptControl64_20610 0x00000288c2440000 + 42c40618 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>33340</ThreadID>
+				<ThreadName>Foreground Worker #1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 13e1c40 
+ScriptControl64_20610 0x00000288c2440000 + 134a87f0 
+UnrealEditor-RenderCore 0x00007ffe51c40000 + 32db1 
+ScriptControl64_20610 0x00000288c2440000 + 42c41090 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>12432</ThreadID>
+				<ThreadName>Background Worker #0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 13e5c40 
+ScriptControl64_20610 0x00000288c2440000 + 9582380 
+UnrealEditor-RenderCore 0x00007ffe51c40000 + 32db1 
+ScriptControl64_20610 0x00000288c2440000 + 42c40618 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>20820</ThreadID>
+				<ThreadName>Background Worker #1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 13e9c40 
+ScriptControl64_20610 0x00000288c2440000 + 9c94480 
+UnrealEditor-RenderCore 0x00007ffe51c40000 + 32db1 
+ScriptControl64_20610 0x00000288c2440000 + 42c40618 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>5084</ThreadID>
+				<ThreadName>Background Worker #2</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 13edc40 
+ScriptControl64_20610 0x00000288c2440000 + 441d9990 
+Unknown 0x0000000000000000 + 9885bffa10 
+Unknown 0x0000000000000000 + 9885bff9f0 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>8284</ThreadID>
+				<ThreadName>Background Worker #3</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 13f1c40 
+ScriptControl64_20610 0x00000288c2440000 + 17518f80 
+UnrealEditor-RenderCore 0x00007ffe51c40000 + 32db1 
+ScriptControl64_20610 0x00000288c2440000 + 42c40618 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25636</ThreadID>
+				<ThreadName>Background Worker #4</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 13f5c40 
+ScriptControl64_20610 0x00000288c2440000 + 1652a180 
+UnrealEditor-RenderCore 0x00007ffe51c40000 + 32db1 
+ScriptControl64_20610 0x00000288c2440000 + 42c40618 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>35128</ThreadID>
+				<ThreadName>Background Worker #5</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 13f9c40 
+ScriptControl64_20610 0x00000288c2440000 + 15c7b980 
+UnrealEditor-RenderCore 0x00007ffe51c40000 + 32db1 
+ScriptControl64_20610 0x00000288c2440000 + 42c40618 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>21084</ThreadID>
+				<ThreadName>Background Worker #6</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 13fdc40 
+ScriptControl64_20610 0x00000288c2440000 + c5b07b0 
+ScriptControl64_20610 0x00000288c2440000 + c5b0000 
+ScriptControl64_20610 0x00000288c2440000 + 42c4b770 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>19592</ThreadID>
+				<ThreadName>Background Worker #7</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 1401c40 
+ScriptControl64_20610 0x00000288c2440000 + ccb7170 
+UnrealEditor-RenderCore 0x00007ffe51c40000 + 32db1 
+ScriptControl64_20610 0x00000288c2440000 + 42c40618 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>10648</ThreadID>
+				<ThreadName>Background Worker #8</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 1405c40 
+ScriptControl64_20610 0x00000288c2440000 + d5b2c70 
+UnrealEditor-RenderCore 0x00007ffe51c40000 + 32db1 
+ScriptControl64_20610 0x00000288c2440000 + 42c40618 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>22728</ThreadID>
+				<ThreadName>Background Worker #9</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 1409c40 
+ScriptControl64_20610 0x00000288c2440000 + dd607c0 
+ScriptControl64_20610 0x00000288c2440000 + dd60000 
+ScriptControl64_20610 0x00000288c2440000 + 42c4b6f8 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>31504</ThreadID>
+				<ThreadName>Background Worker #10</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 140dc40 
+ScriptControl64_20610 0x00000288c2440000 + e4f6580 
+UnrealEditor-RenderCore 0x00007ffe51c40000 + 32db1 
+ScriptControl64_20610 0x00000288c2440000 + 42c40618 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>17152</ThreadID>
+				<ThreadName>Background Worker #11</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 1411c40 
+ScriptControl64_20610 0x00000288c2440000 + 1249bbb0 
+UnrealEditor-RenderCore 0x00007ffe51c40000 + 32db1 
+ScriptControl64_20610 0x00000288c2440000 + 42c4b720 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>32224</ThreadID>
+				<ThreadName>Background Worker #12</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 1415c40 
+ScriptControl64_20610 0x00000288c2440000 + fb093b0 
+UnrealEditor-RenderCore 0x00007ffe51c40000 + 32db1 
+ScriptControl64_20610 0x00000288c2440000 + 42c4b798 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25056</ThreadID>
+				<ThreadName>Background Worker #13</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 1419c40 
+ScriptControl64_20610 0x00000288c2440000 + 12c989b0 
+UnrealEditor-RenderCore 0x00007ffe51c40000 + 32db1 
+ScriptControl64_20610 0x00000288c2440000 + 42c4b748 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>22416</ThreadID>
+				<ThreadName>Background Worker #14</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 141dc40 
+ScriptControl64_20610 0x00000288c2440000 + 1447b070 
+UnrealEditor-RenderCore 0x00007ffe51c40000 + 32db1 
+ScriptControl64_20610 0x00000288c2440000 + 42c40618 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>20696</ThreadID>
+				<ThreadName>Background Worker #15</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 162114 
+ntdll 0x00007ffedace0000 + d10c4 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>8212</ThreadID>
+				<ThreadName>FAsyncWriter_UnrealProject</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 162114 
+ntdll 0x00007ffedace0000 + d10c4 
+ScriptControl64_20610 0x00000288c2440000 + 13be0020 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>31352</ThreadID>
+				<ThreadName>FAssetDataDiscovery</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 1429c40 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>9256</ThreadID>
+				<ThreadName>FMediaTicker</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 165744 
+ntdll 0x00007ffedace0000 + 75e8e 
+ScriptControl64_20610 0x00000288c2440000 + 349f550 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25848</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 162114 
+ntdll 0x00007ffedace0000 + d10c4 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>35420</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 1625e4 
+KERNELBASE 0x00007ffed75c0000 + 41a93 
+ntdll 0x00007ffedace0000 + 3b5dfeec516d 
+Unknown 0x0000000000000000 + 98ffd3f050 
+Unknown 0x0000000000000000 + 1 
+UnrealEditor-Core 0x00007ffe4c200000 + 6b4e66 
+Unknown 0x0000000000000000 + 98ffd3ed50 
+Unknown 0x0000000000000000 + 98ffd3f050 
+Unknown 0x0000000000000000 + 10005a595 
+Unknown 0x0000000000000000 + 10200000000 
+ntdll 0x00007ffedace0000 + ffff80012522bdc0
+Unknown 0x0000000000000000 + 87 
+Unknown 0x0000000000000000 + 48 
+Unknown 0x0000000000000000 + 1 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>18208</ThreadID>
+				<ThreadName>HttpManagerThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 162114 
+ntdll 0x00007ffedace0000 + d10c4 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>9452</ThreadID>
+				<ThreadName>LibwebsocketsThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 1435c40 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>27404</ThreadID>
+				<ThreadName>OnlineAsyncTaskThreadNull DefaultInstance(1)</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 1656e4 
+ntdll 0x00007ffedace0000 + 9c113 
+ntdll 0x00007ffedace0000 + 6e54af3475913034
+ntdll 0x00007ffedace0000 + 6a6ef25191936572
+ntdll 0x00007ffedace0000 + 6571ee5654a66365
+ntdll 0x00007ffedace0000 + 6364ea7097826c61
+ScriptControl64_20610 0x00000288c2440000 + 273e0018 
+Unknown 0x0000000000000000 + 41c8 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>16840</ThreadID>
+				<ThreadName>OutputDeviceRedirector</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 143dc40 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>29616</ThreadID>
+				<ThreadName>IOThreadPool #0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 1441c40 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>9568</ThreadID>
+				<ThreadName>IOThreadPool #1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 1445c40 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>31432</ThreadID>
+				<ThreadName>IOThreadPool #2</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 1449c40 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>34236</ThreadID>
+				<ThreadName>IOThreadPool #3</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 1625e4 
+KERNELBASE 0x00007ffed75c0000 + 41a93 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>34100</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 162114 
+ntdll 0x00007ffedace0000 + d10c4 
+Unknown 0x0000000000000000 + 48 
+Unknown 0x0000000000000000 + 1 
+Unknown 0x0000000000000000 + 9892b1fb40 
+UnrealEditor-Core 0x00007ffe4c200000 + 2cfcb1 
+Unknown 0x0000000000000000 + 9892b1fae0 
+KERNELBASE 0x00007ffed75c0000 + 46f01 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24072</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 165744 
+ntdll 0x00007ffedace0000 + 75e8e 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>12216</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 165744 
+ntdll 0x00007ffedace0000 + 75e8e 
+Unknown 0x0000000000000000 + 2 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>2696</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161bb4 
+KERNELBASE 0x00007ffed75c0000 + 4207c 
+ScriptControl64_20610 0x00000288c2440000 + 29e4bc38 
+Unknown 0x0000000000000000 + 989369fce0 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>2908</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 1656e4 
+ntdll 0x00007ffedace0000 + 94c9e 
+ScriptControl64_20610 0x00000288c2440000 + 2a123b60 
+ScriptControl64_20610 0x00000288c2440000 + 2a123b60 
+ScriptControl64_20610 0x00000288c2440000 + 38077c0 
+NvMessageBus 0x00007ffea5e40000 + 20dc4 
+ScriptControl64_20610 0x00000288c2440000 + 2a123ba0 
+ScriptControl64_20610 0x00000288c2440000 + 2a123ba0 
+ScriptControl64_20610 0x00000288c2440000 + 29d7b7c0 
+ScriptControl64_20610 0x00000288c2440000 + 2a123b60 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>20612</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 1656e4 
+ntdll 0x00007ffedace0000 + 94c9e 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>13972</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>29812</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 1625e4 
+KERNELBASE 0x00007ffed75c0000 + 41a93 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>18316</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>11232</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>32728</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>22200</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>32400</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>16996</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>2160</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>32820</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>9932</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>19232</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25428</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>11920</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>18816</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 1459c40 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>15532</ThreadID>
+				<ThreadName>DDC IO ThreadPool #0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 145dc40 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>17420</ThreadID>
+				<ThreadName>DDC IO ThreadPool #1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 1461c40 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>21036</ThreadID>
+				<ThreadName>DDC IO ThreadPool #2</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+Unknown 0x0000000000000000 + 1b 
+UnrealEditor-Core 0x00007ffe4c200000 + 1465c40 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>31360</ThreadID>
+				<ThreadName>DDC IO ThreadPool #3</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161bb4 
+MSWSOCK 0x00007ffed6860000 + 1722e 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>23876</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>16616</ThreadID>
+				<ThreadName>FileSystemCacheStoreMaintainer</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 162114 
+ntdll 0x00007ffedace0000 + d10c4 
+ScriptControl64_20610 0x00000288c2440000 + 30480000 
+UnrealEditor-Core 0x00007ffe4c200000 + 56e4fa 
+Unknown 0x0000000000000000 + 989942f170 
+UnrealEditor-Core 0x00007ffe4c200000 + 2cfcb1 
+Unknown 0x0000000000000000 + 989942f110 
+KERNELBASE 0x00007ffed75c0000 + 46f01 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>31400</ThreadID>
+				<ThreadName>ShaderCompilingThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 1625e4 
+KERNELBASE 0x00007ffed75c0000 + 41a93 
+UnrealEditor-DerivedDataCache 0x00007ffe4a9c0000 + 181fd0 
+ScriptControl64_20610 0x00000288c2440000 + 470b3008 
+ntdll 0x00007ffedace0000 + 6c63f0617f36 
+ScriptControl64_20610 0x00000288c2440000 + 4777d800 
+Unknown 0x0000000000000000 + 9897c9f470 
+UnrealEditor-Zen 0x00007ffe47be0000 + acb79 
+Unknown 0x0000000000000000 + 104000ab6 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>12296</ThreadID>
+				<ThreadName>HttpConnectionPool</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+ScriptControl64_20610 0x00000288c2440000 + 29d54b20 
+ScriptControl64_20610 0x00000288c2440000 + 29d542d0 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24344</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+ScriptControl64_20610 0x00000288c2440000 + 29d54b20 
+ScriptControl64_20610 0x00000288c2440000 + 29d542d0 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>29640</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+ScriptControl64_20610 0x00000288c2440000 + 111f28c0 
+Unknown 0x0000000000000000 + 989944ddf8 
+Unknown 0x0000000000000000 + 989944e040 
+Unknown 0x0000000000000000 + 989944e660 
+KERNELBASE 0x00007ffed75c0000 + 39d6b8 
+ntdll 0x00007ffedace0000 + ffff8001016eba00
+Unknown 0x0000000000000000 + 48 
+Unknown 0x0000000000000000 + 1 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>608</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>NvMemMapStoragex 0x00007ffed0920000 + 2a601 
+</CallStack>
+				<IsCrashed>true</IsCrashed>
+				<Registers />
+				<ThreadID>3864</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>30592</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+ScriptControl64_20610 0x00000288c2440000 + 29d54b20 
+ScriptControl64_20610 0x00000288c2440000 + 29d542d0 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>35476</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+ScriptControl64_20610 0x00000288c2440000 + 29d54b20 
+ScriptControl64_20610 0x00000288c2440000 + 29d542d0 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>31444</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+ScriptControl64_20610 0x00000288c2440000 + 29d54b20 
+ScriptControl64_20610 0x00000288c2440000 + 29d542d0 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>20960</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+ScriptControl64_20610 0x00000288c2440000 + 29d54b20 
+ScriptControl64_20610 0x00000288c2440000 + 29d542d0 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25896</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 161b14 
+KERNELBASE 0x00007ffed75c0000 + 3b1bf 
+ScriptControl64_20610 0x00000288c2440000 + 29d54b20 
+ScriptControl64_20610 0x00000288c2440000 + 29d542d0 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>10620</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffedace0000 + 1656e4 
+ntdll 0x00007ffedace0000 + 94c9e 
+Unknown 0x0000000000000000 + 6e70 
+</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>28272</ThreadID>
+				<ThreadName>Unknown</ThreadName>
+			</Thread>
+		</Threads>
+		<TimeOfCrash>639110068166210000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<CPUBrand>13th Gen Intel(R) Core(TM) i5-13600K</CPUBrand>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformIsRunningWine>false</PlatformIsRunningWine>
+		<PlatformSupportsWindows11>true</PlatformSupportsWindows11>
+		<IsRunningOnBattery>false</IsRunningOnBattery>
+		<IsUsingBatterySaver>false</IsUsingBatterySaver>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+		<CrashTrigger>0</CrashTrigger>
+	</PlatformProperties>
+	<EngineData>
+		<MatchingDPStatus>WindowsEditorNo errors</MatchingDPStatus>
+		<RHI.IntegratedGPU>false</RHI.IntegratedGPU>
+		<RHI.DriverDenylisted>false</RHI.DriverDenylisted>
+		<RHI.D3DDebug>false</RHI.D3DDebug>
+		<RHI.Aftermath>false</RHI.Aftermath>
+		<RHI.IsGPUOverclocked>false</RHI.IsGPUOverclocked>
+		<RHI.RHIName>D3D11</RHI.RHIName>
+		<RHI.AdapterName>NVIDIA GeForce RTX 4090</RHI.AdapterName>
+		<RHI.UserDriverVersion>580.97</RHI.UserDriverVersion>
+		<RHI.InternalDriverVersion>32.0.15.8097</RHI.InternalDriverVersion>
+		<RHI.DriverDate>8-7-2025</RHI.DriverDate>
+		<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+		<RHI.GPUVendor>NVIDIA</RHI.GPUVendor>
+		<RHI.DeviceId>2684</RHI.DeviceId>
+	</EngineData>
+	<GameData>
+</GameData>
+</FGenericCrashContext>
