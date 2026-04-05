@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/brsong/Desktop/EECS440_P3/UnrealProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/brsong/Desktop/EECS440_P3/UnrealProject/Content/Affordances/AfDoor1.uasset",
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Weapons/textures/SciFiSaw_low_phong5_Normal.uasset",
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Weapons/textures/SciFiSaw_low_phong5_Roughness.uasset",
