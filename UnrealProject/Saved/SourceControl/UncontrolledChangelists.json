@@ -6,7 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/TurretHead_Blueprint.uasset",
-				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/VRTemplate/Maps/VRTemplateMap.umap"
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/scifi_light_12/Textures/scifi_light_12_texture_0.uasset",
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/scifi_light_12/Textures/scifi_light_12_texture_1.uasset",
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/scifi_light_12/Textures/scifi_light_12_texture_2.uasset",
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/scifi_light_12/Textures/scifi_light_12_texture_3.uasset",
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/scifi_light_12/Materials/Material_38.uasset",
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/scifi_light_12/Materials/Material_39.uasset",
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/scifi_light_12/StaticMeshes/Light_12_Material__38_0.uasset",
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/scifi_light_12/StaticMeshes/Light_12_Material__39_0.uasset"
 			]
 		}
 	]
