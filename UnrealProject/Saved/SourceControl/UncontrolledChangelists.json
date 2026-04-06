@@ -14,7 +14,10 @@
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/scifi_light_12/Materials/Material_38.uasset",
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/scifi_light_12/Materials/Material_39.uasset",
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/scifi_light_12/StaticMeshes/Light_12_Material__38_0.uasset",
-				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/scifi_light_12/StaticMeshes/Light_12_Material__39_0.uasset"
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/scifi_light_12/StaticMeshes/Light_12_Material__39_0.uasset",
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/lightsaberLit.uasset",
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/Laser_Blueprint.uasset"
 			]
 		}
 	]
