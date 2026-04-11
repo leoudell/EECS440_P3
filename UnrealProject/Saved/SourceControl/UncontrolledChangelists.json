@@ -5,10 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/brsong/Desktop/EECS440_P3/UnrealProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"C:/Users/brsong/Desktop/EECS440_P3/UnrealProject/Content/Blueprints/ship.uasset",
-				"N:/windat.v2/Documents/GitHub/EECS440_P3/UnrealProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"N:/windat.v2/Documents/GitHub/EECS440_P3/UnrealProject/Content/Blueprints/BP_CutoutWall_Crouch.uasset",
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/TurretHead_Blueprint.uasset",
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/scifi_light_12/Textures/scifi_light_12_texture_0.uasset",
@@ -21,7 +17,15 @@
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/scifi_light_12/StaticMeshes/Light_12_Material__39_0.uasset",
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/lightsaberLit.uasset",
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/VRTemplate/Blueprints/VRPawn.uasset",
-				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/Laser_Blueprint.uasset"
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/Laser_Blueprint.uasset",
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/UI/MainMenue.uasset",
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/LevelPrototyping/MainMLevel.umap",
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/LevelPrototyping/MainMenueLevel/MainMLevel.umap",
+				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/LevelPrototyping/MainMenueLevel/MenueGameModel.uasset",
+				"C:/Users/brsong/Desktop/EECS440_P3/UnrealProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/brsong/Desktop/EECS440_P3/UnrealProject/Content/Blueprints/ship.uasset",
+				"N:/windat.v2/Documents/GitHub/EECS440_P3/UnrealProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"N:/windat.v2/Documents/GitHub/EECS440_P3/UnrealProject/Content/Blueprints/BP_CutoutWall_Crouch.uasset"
 			]
 		}
 	]
