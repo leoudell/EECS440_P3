@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/brsong/Desktop/EECS440_P3/UnrealProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/brsong/Desktop/EECS440_P3/UnrealProject/Content/Blueprints/ship.uasset",
+				"C:/Users/brsong/Desktop/EECS440_P3/UnrealProject/Content/Affordances/AfDoor1.uasset",
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/TurretHead_Blueprint.uasset",
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/Blueprints/scifi_light_12/Textures/scifi_light_12_texture_0.uasset",
@@ -28,8 +31,6 @@
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/SpaceBox/HDR/HDR_hazy_nebulae.uasset",
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/SpaceBox/Material/SpaceBox.uasset",
 				"C:/Users/leoudell/EECS440_P3/UnrealProject/Content/SpaceBox/Material/MI_spacebox.uasset",
-				"C:/Users/brsong/Desktop/EECS440_P3/UnrealProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"C:/Users/brsong/Desktop/EECS440_P3/UnrealProject/Content/Blueprints/ship.uasset",
 				"N:/windat.v2/Documents/GitHub/EECS440_P3/UnrealProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"N:/windat.v2/Documents/GitHub/EECS440_P3/UnrealProject/Content/Blueprints/BP_CutoutWall_Crouch.uasset"
 			]
