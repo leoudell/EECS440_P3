@@ -2687,3 +2687,154 @@ The following settings have been applied:
 [2026.04.13-01.18.54:786][891]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4683.856445
 [2026.04.13-01.18.54:869][900]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.13-01.18.54:869][900]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4683.928223, Update Interval: 345.235748
+[2026.04.13-01.25.14:591][567]LogPSOHitching: Encountered 400 PSO creation hitches so far (331 graphics, 69 compute). 0 of them were precached.
+[2026.04.13-01.25.24:378][549]Cmd: DUPLICATE
+[2026.04.13-01.25.24:378][549]Cmd: ACTOR DUPLICATE
+[2026.04.13-01.25.25:401][645]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5074.460938
+[2026.04.13-01.25.25:602][658]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-01.25.25:602][658]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5074.615234, Update Interval: 358.883026
+[2026.04.13-01.26.33:631][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.13-01.26.33:671][541]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2
+[2026.04.13-01.26.33:671][541]LogSavePackage: Moving '../../../../../../Users/brsong/Desktop/EECS440_P3/UnrealProject/Saved/VRTemplateMap_Auto25A446FBF46EB2D300E51AB8FB3284872.tmp' to '../../../../../../Users/brsong/Desktop/EECS440_P3/UnrealProject/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2.umap'
+[2026.04.13-01.26.33:672][541]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.086
+[2026.04.13-01.26.33:674][541]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.086
+[2026.04.13-01.30.12:211][184]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.04.13-01.30.12:211][184]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.04.13-01.30.12:211][184]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_11
+[2026.04.13-01.30.12:213][184]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_11
+[2026.04.13-01.30.14:036][345]LogPSOHitching: Encountered 450 PSO creation hitches so far (370 graphics, 80 compute). 0 of them were precached.
+[2026.04.13-01.30.28:242][696]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_11.StaticMeshComponent0.
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: ================================================
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Total job queries 15,495, among them cache hits 69 (0.45%), DDC hits 7,338 (47.36%), Duplicates 4,614 (29.78%)
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Tracking 10,812 distinct input hashes that result in 9,726 distinct outputs (89.96%)
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: RAM used: 122.87 MiB of 3.20 GiB budget. Usage: 3.75%
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Shaders Compiled: 3,474
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Jobs assigned 3,474, completed 3,474 (100%)
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Average time worker was idle: 31.31 s
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Time job spent in pending queue: average 46.99 s, longest 129.55 s
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Job execution time: average 5.71 s, max 41.49 s
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Job life time (pending + execution): average 52.70 s, max 129.87
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Shader code size: total 49.147 MiB, numShaders 3,502, average 14.371 KiB, min 1.191 KiB, max 50.43 KiB
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 305.64 s
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.19%
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Jobs were issued in 651 batches (only local compilation was used), average 5.34 jobs/batch
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Average processing rate: 11.37 jobs/sec
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Total thread time: 2,299.021 s
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Total thread preprocess time: 127.998 s
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Percentage time preprocessing: 5.57%
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Effective parallelization: 7.52 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.752207
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 3.88 sec, max 3.88 sec, min 3.88 sec)
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 3.76 sec, max 3.76 sec, min 3.76 sec)
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyLQSkylight (compiled    1 times, average 3.67 sec, max 3.67 sec, min 3.67 sec)
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyHQ (compiled    1 times, average 3.64 sec, max 3.64 sec, min 3.64 sec)
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display:  TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 3.64 sec, max 3.64 sec, min 3.64 sec)
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 25.70% of total time (compiled  440 times, average 1.34 sec, max 2.98 sec, min 0.00 sec)
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display:                              FHardwareRayTraceLightSamplesCS - 7.19% of total time (compiled  384 times, average 0.43 sec, max 0.75 sec, min 0.19 sec)
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.76% of total time (compiled   36 times, average 3.04 sec, max 37.92 sec, min 0.63 sec)
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 4.69% of total time (compiled   42 times, average 2.57 sec, max 21.15 sec, min 0.60 sec)
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.12% of total time (compiled  240 times, average 0.39 sec, max 0.67 sec, min 0.13 sec)
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: === Material stats ===
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Materials Translated:    173
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Material Translation Only: 0.06 s (23%)
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.04.13-01.31.05:227][558]LogShaderCompilers: Display: ================================================
+[2026.04.13-01.31.57:440][158]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5466.444824
+[2026.04.13-01.31.57:516][166]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-01.31.57:516][167]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5466.510742, Update Interval: 350.547791
+[2026.04.13-01.33.51:044][353]LogPSOHitching: Encountered 500 PSO creation hitches so far (414 graphics, 86 compute). 0 of them were precached.
+[2026.04.13-01.33.51:340][356]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.04.13-01.33.51:340][356]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_15'.
+[2026.04.13-01.33.52:316][435]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_MenuLaser.NS_MenuLaser took 0.970928 sec (time since issued).
+[2026.04.13-01.33.52:377][439]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.04.13-01.33.52:377][439]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_16'.
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: ================================================
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Total job queries 15,513, among them cache hits 75 (0.48%), DDC hits 7,341 (47.32%), Duplicates 4,614 (29.74%)
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Tracking 10,824 distinct input hashes that result in 9,737 distinct outputs (89.96%)
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: RAM used: 123.05 MiB of 3.20 GiB budget. Usage: 3.76%
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Shaders Compiled: 3,483
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Jobs assigned 3,483, completed 3,483 (100%)
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Average time worker was idle: 57.30 s
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Time job spent in pending queue: average 46.86 s, longest 129.55 s
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Job execution time: average 5.70 s, max 41.49 s
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Job life time (pending + execution): average 52.56 s, max 129.87
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Shader code size: total 49.301 MiB, numShaders 3,511, average 14.379 KiB, min 1.191 KiB, max 50.43 KiB
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 308.43 s
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.19%
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Jobs were issued in 660 batches (only local compilation was used), average 5.28 jobs/batch
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Average processing rate: 11.29 jobs/sec
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Total thread time: 2,306.009 s
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Total thread preprocess time: 128.184 s
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Percentage time preprocessing: 5.56%
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Effective parallelization: 7.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.747661
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 3.88 sec, max 3.88 sec, min 3.88 sec)
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 3.76 sec, max 3.76 sec, min 3.76 sec)
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyLQSkylight (compiled    1 times, average 3.67 sec, max 3.67 sec, min 3.67 sec)
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyHQ (compiled    1 times, average 3.64 sec, max 3.64 sec, min 3.64 sec)
+[2026.04.13-01.34.05:235][602]LogShaderCompilers: Display:  TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 3.64 sec, max 3.64 sec, min 3.64 sec)
+[2026.04.13-01.34.05:237][602]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.13-01.34.05:237][602]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 25.62% of total time (compiled  440 times, average 1.34 sec, max 2.98 sec, min 0.00 sec)
+[2026.04.13-01.34.05:237][602]LogShaderCompilers: Display:                              FHardwareRayTraceLightSamplesCS - 7.16% of total time (compiled  384 times, average 0.43 sec, max 0.75 sec, min 0.19 sec)
+[2026.04.13-01.34.05:237][602]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.75% of total time (compiled   36 times, average 3.04 sec, max 37.92 sec, min 0.63 sec)
+[2026.04.13-01.34.05:237][602]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 4.67% of total time (compiled   42 times, average 2.57 sec, max 21.15 sec, min 0.60 sec)
+[2026.04.13-01.34.05:237][602]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.11% of total time (compiled  240 times, average 0.39 sec, max 0.67 sec, min 0.13 sec)
+[2026.04.13-01.34.05:237][602]LogShaderCompilers: Display: === Material stats ===
+[2026.04.13-01.34.05:237][602]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.13-01.34.05:237][602]LogShaderCompilers: Display: Materials Translated:    173
+[2026.04.13-01.34.05:237][602]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2026.04.13-01.34.05:237][602]LogShaderCompilers: Display: Material Translation Only: 0.06 s (23%)
+[2026.04.13-01.34.05:237][602]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.13-01.34.05:237][602]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.04.13-01.34.05:237][602]LogShaderCompilers: Display: ================================================
+[2026.04.13-01.34.18:980][771]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2026.04.13-01.34.19:041][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.04.13-01.34.19:051][771]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-01.34.19:051][771]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-01.34.19:073][771]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/LadderRung_Blueprint.LadderRung_Blueprint
+[2026.04.13-01.34.19:075][771]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.04.13-01.34.19:075][771]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_17'.
+[2026.04.13-01.34.19:405][771]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-01.34.19:419][771]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-01.36.34:051][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.04.13-01.36.34:095][775]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto3
+[2026.04.13-01.36.34:095][775]LogSavePackage: Moving '../../../../../../Users/brsong/Desktop/EECS440_P3/UnrealProject/Saved/VRTemplateMap_Auto378BCFE3C4328A86DB3AC0593F9517FCD.tmp' to '../../../../../../Users/brsong/Desktop/EECS440_P3/UnrealProject/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto3.umap'
+[2026.04.13-01.36.34:097][775]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.096
+[2026.04.13-01.36.34:097][775]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096
+[2026.04.13-01.36.34:098][775]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/LadderRung_Blueprint] ([2] browsable assets)...
+[2026.04.13-01.36.34:098][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/LadderRung_Blueprint]
+[2026.04.13-01.36.34:104][775]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/LadderRung_Blueprint_Auto3
+[2026.04.13-01.36.34:104][775]LogSavePackage: Moving '../../../../../../Users/brsong/Desktop/EECS440_P3/UnrealProject/Saved/LadderRung_Blueprint_Auto31553C689478518EE163FA1AB25FD8869.tmp' to '../../../../../../Users/brsong/Desktop/EECS440_P3/UnrealProject/Saved/Autosaves/Game/Blueprints/LadderRung_Blueprint_Auto3.uasset'
+[2026.04.13-01.36.34:105][775]LogFileHelpers: Auto-saving content packages took 0.008
+[2026.04.13-01.36.38:092][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.04.13-01.36.38:096][840]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-01.36.38:220][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.04.13-01.36.38:257][840]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2026.04.13-01.36.38:258][840]LogSavePackage: Moving '../../../../../../Users/brsong/Desktop/EECS440_P3/UnrealProject/Saved/VRTemplateMap2EE897D64F69DEE2BA4559A3854C3D20.tmp' to '../../../../../../Users/brsong/Desktop/EECS440_P3/UnrealProject/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2026.04.13-01.36.38:269][840]LogFileHelpers: All files are already saved.
+[2026.04.13-01.36.38:269][840]LogFileHelpers: Saving map 'VRTemplateMap' took 0.112
+[2026.04.13-01.36.38:269][840]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/LadderRung_Blueprint] ([2] browsable assets)...
+[2026.04.13-01.36.38:269][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/LadderRung_Blueprint]
+[2026.04.13-01.36.38:269][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LadderRung_Blueprint" FILE="../../../../../../Users/brsong/Desktop/EECS440_P3/UnrealProject/Content/Blueprints/LadderRung_Blueprint.uasset" SILENT=true
+[2026.04.13-01.36.38:275][840]LogSavePackage: Moving output files for package: /Game/Blueprints/LadderRung_Blueprint
+[2026.04.13-01.36.38:275][840]LogSavePackage: Moving '../../../../../../Users/brsong/Desktop/EECS440_P3/UnrealProject/Saved/LadderRung_Blueprint97605CEE4ADC1D847F4824B76A4D72C4.tmp' to '../../../../../../Users/brsong/Desktop/EECS440_P3/UnrealProject/Content/Blueprints/LadderRung_Blueprint.uasset'
+[2026.04.13-01.36.38:284][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.258 ms (total: 631.720 ms)
+[2026.04.13-01.36.38:320][840]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.13-01.36.38:320][840]LogContentValidation: Enabled validators:
+[2026.04.13-01.36.38:320][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-01.36.38:320][840]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-01.36.38:320][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-01.36.38:320][840]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-01.36.38:320][840]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-01.36.38:320][840]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-01.36.38:320][840]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2026.04.13-01.36.38:320][840]AssetCheck: /Game/Blueprints/LadderRung_Blueprint Validating asset
+[2026.04.13-01.36.38:338][840]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/brsong/Desktop/EECS440_P3/UnrealProject/Saved/SourceControl/UncontrolledChangelists.json
