@@ -2838,3 +2838,6 @@ The following settings have been applied:
 [2026.04.13-01.36.38:320][840]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
 [2026.04.13-01.36.38:320][840]AssetCheck: /Game/Blueprints/LadderRung_Blueprint Validating asset
 [2026.04.13-01.36.38:338][840]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/brsong/Desktop/EECS440_P3/UnrealProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.13-01.38.30:980][204]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5859.942871
+[2026.04.13-01.38.31:981][206]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-01.38.31:981][206]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5860.609375, Update Interval: 323.509644
